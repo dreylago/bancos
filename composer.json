@@ -13,7 +13,6 @@
     "autoload": {
         "psr-4": {
             "drey\\bancos\\": ["src/","tests/unit"],
-            "drey\\bancos\\yii": ["src/yii"]
         }
     }
 }
