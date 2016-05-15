@@ -1,8 +1,8 @@
 # Bancos de Venezuela
 
-Aquellos afiliados a la cámara de compensación 
+Aquellos afiliados a la cámara de compensación.
 
-Este paquete incluye
+Este paquete incluye:
 
 	- Definicion sql
 	- Código PHP de migración de la BD (sql, mysql)
@@ -11,9 +11,15 @@ Este paquete incluye
 
 ## Trabajo futuro
 
-	- Código PHP para generar elemento SELECT (HTML)
+	- Código PHP para generar elemento SELECT (HTML).
+
 
 
 ## Fuente
 
-	http://www.bcv.org.ve (2016)
+	http://www.bcv.org.ve (2016).
+
+
+## Garantía
+
+	De ningún tipo. 
