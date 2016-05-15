@@ -1,0 +1,13 @@
+{
+    "name": "drey/bancos",
+    "description": "Bancos de Venezuela 2016",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "demetrio rey",
+            "email": "demetrio.rey@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
