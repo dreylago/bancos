@@ -21,8 +21,8 @@ class Migrate {
 		$qd = $this->db->exec($sql_data);
 	}
 
-	public function down($sql)
+	public function down($drop_sql)
 	{
-		$qs = $this->db->exec($sql);
+		$qs = $this->db->exec($drop_sql);
 	}
 }
