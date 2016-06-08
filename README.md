@@ -4,9 +4,9 @@ Aquellos afiliados a la cámara de compensación.
 
 Este paquete incluye:
 
-	- Definicion sql (`/sql/src`)
-	- Código PHP de migración de la BD (sql, mysql)
-	- Prueba del código de migración
+	- Definición sql (directorio `/sql`)
+	- Código PHP de migración de la BD  (directorio `/slc`)
+	- Prueba del código de migración 
 
 
 ## Trabajo futuro
