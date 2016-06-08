@@ -1,10 +1,10 @@
-# Bancos de Venezuela
+# Códigos de Bancos de Venezuela
 
 Aquellos afiliados a la cámara de compensación.
 
 Este paquete incluye:
 
-	- Definicion sql
+	- Definicion sql (`/sql/src`)
 	- Código PHP de migración de la BD (sql, mysql)
 	- Prueba del código de migración
 
